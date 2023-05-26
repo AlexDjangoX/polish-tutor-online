@@ -47,7 +47,7 @@ const About = () => {
         className="text-center"
         variants={textVariant()}
       >
-        <h2 className={styles.sectionHeadText}>About</h2>
+        <h2 className={`${styles.sectionHeadText} mt-6`}>About</h2>
       </motion.div>
 
       <motion.div initial="hidden" whileInView="show">

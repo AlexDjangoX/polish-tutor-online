@@ -75,7 +75,7 @@ const Testimonials = () => {
               rel="noopener noreferrer"
               className="flex justify-center w-3/5 mt-4 mr-4 mb-16 text-white-700 font-extralight bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 hover:from-pink-500 hover:to-yellow-500  cursor-pointer py-2 px-0 rounded focus:outline-none focus:shadow-outline"
             >
-              Checkout my e-Polish Profile
+              My e-Polish Profile
             </Link>
           </div>
         </div>

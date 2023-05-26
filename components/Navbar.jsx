@@ -90,8 +90,7 @@ const Navbar = () => {
         <Link
           href="https://polish-tutor-online-blog.vercel.app/"
           target="_blank"
-          rel="noopener noreferrer"
-          className="inline-block px-8 py-2 mx-6 text-white-700 font-extralight bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 hover:from-pink-500 hover:to-yellow-500  rounded cursor-pointer"
+          className="inline-block md:px-8 md:py-2 md:mx-6 ml-12 px-4 py-1 mx-3 text-white-700 font-extralight bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 hover:from-pink-500 hover:to-yellow-500  rounded cursor-pointer"
         >
           Blog
         </Link>

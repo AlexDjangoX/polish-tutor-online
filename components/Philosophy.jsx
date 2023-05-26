@@ -68,7 +68,10 @@ const Philosophy = () => {
         initial="hidden"
         whileInView="show"
       >
-        <h2 className={`${styles.sectionHeadText}`}> Teaching Philosophy</h2>
+        <h2 className={`${styles.sectionHeadText} mt-6`}>
+          {' '}
+          Teaching Philosophy
+        </h2>
         <span className="h-8"></span>
       </motion.div>
       <motion.div

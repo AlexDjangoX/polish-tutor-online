@@ -154,7 +154,7 @@ const Contact = () => {
           <div className="flex flex-wrap justify-between">
             <button
               type="submit"
-              className="green-pink-gradient p-[1px]  shadow-card text-gray py-2 px-6 rounded-md hover:bg-primary-darker transition duration-300"
+              className=" p-[1px] py-2 px-6 text-white-700 font-extralight bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 hover:from-pink-500 hover:to-yellow-500  rounded cursor-pointer"
             >
               <p>Send</p>
             </button>
